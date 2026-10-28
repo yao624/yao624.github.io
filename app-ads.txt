@@ -165,7 +165,7 @@ indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
 ivs.tv, 745639, RESELLER
 krushmedia.com, AJxF6R734a9M6CaTvK, RESELLER
 krushmedia.com, AJxF6R746a9M6CaTvK, RESELLER
-lijit.com, 569924, RESELLER, fafdf38b16bf6b2b #SOVRN
+lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
 lijit.com, 580374, RESELLER, fafdf38b16bf6b2b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 9bf12353-42d2-41a3-b624-dfd28f4daa7a, RESELLER, 524ecb396915caaf
